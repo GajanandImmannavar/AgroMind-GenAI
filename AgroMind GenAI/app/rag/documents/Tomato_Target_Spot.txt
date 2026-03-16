@@ -1,0 +1,86 @@
+Disease Name: Target Spot
+
+Crop:
+Tomato
+
+Scientific Name:
+Corynespora cassiicola
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves, stems, and fruits
+
+Description:
+Target Spot is a disease that affects tomato plants. It spreads mainly in warm and humid conditions. The disease causes brown spots with ring-like patterns on leaves and can damage fruits if not controlled early.
+
+Cause:
+- Caused by a fungus called Corynespora cassiicola
+- Spreads in warm and humid weather
+- The fungus survives in infected plant debris in the field
+
+Favorable Conditions:
+- Warm temperatures
+- High humidity
+- Frequent rainfall
+- Poor air circulation between plants
+
+Symptoms:
+- Brown spots with ring pattern on leaves
+- Yellow area around spots
+- Leaves may dry and fall
+- Fruits may show dark patches
+- Severe infection weakens the plant
+
+Disease Spread:
+- Spores spread through wind
+- Rain splash spreads the fungus
+- Infected plant debris in the soil spreads the disease
+
+Steps to Make Plant Healthy:
+1. Remove infected leaves and plant parts.
+2. Spray recommended fungicide early.
+3. Maintain proper spacing between plants.
+4. Improve air circulation in the field.
+5. Monitor plants regularly.
+
+Recommended Medicine:
+- Mancozeb
+- Chlorothalonil
+- Copper-based fungicides
+
+How to Apply:
+- Spray fungicide evenly on leaves and fruits.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if needed.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹800 – ₹1800 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1100 – ₹2500 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Avoid overcrowding plants
+- Maintain proper spacing
+- Remove infected plant parts
+- Keep field clean
+
+Best Farming Practices:
+- Regular field inspection
+- Balanced fertilizer use
+- Proper plant spacing
+- Good field sanitation
+
+Effect on Yield:
+If not controlled, Target Spot can reduce tomato plant health and crop yield.
+
+Farmer Advice:
+Check tomato leaves regularly for brown spots with ring patterns. Early fungicide spraying and proper field management help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Tomato Target Spot (Corynespora cassiicola)

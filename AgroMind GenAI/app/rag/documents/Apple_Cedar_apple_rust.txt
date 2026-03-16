@@ -1,0 +1,87 @@
+Disease Name: Cedar Apple Rust
+
+Crop:
+Apple
+
+Scientific Name:
+Gymnosporangium juniperi-virginianae
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves and fruits
+
+Description:
+Cedar Apple Rust is a disease that affects apple trees. It usually spreads during the rainy season. The fungus needs two plants to live: apple trees and cedar or juniper trees. The disease spreads from cedar trees to apple trees through wind during wet weather.
+
+Cause:
+- Caused by a fungus called Gymnosporangium juniperi-virginianae
+- Spreads during rainy and humid weather
+- Often spreads from nearby cedar or juniper trees
+
+Favorable Conditions:
+- Rainy season
+- Cool and moist weather
+- Presence of nearby cedar or juniper trees
+- Wet leaves for long time
+
+Symptoms:
+- Yellow or orange spots on leaves
+- Bright orange patches on the leaf surface
+- Leaves may fall early
+- Small spots may appear on fruits
+- In severe cases, fruit quality may decrease
+
+Disease Spread:
+- Spores travel through wind
+- Rain and moisture help the fungus grow
+- Infection often comes from nearby cedar or juniper trees
+
+Steps to Make Plant Healthy:
+1. Remove infected leaves from the tree.
+2. Spray recommended fungicide early.
+3. Keep the orchard clean.
+4. Prune branches to improve air flow.
+5. Check plants regularly for early symptoms.
+
+Recommended Medicine:
+- Mancozeb
+- Myclobutanil
+- Captan
+- Sulfur spray
+
+How to Apply:
+- Spray fungicide on leaves and fruits.
+- Start spraying when the first symptoms appear.
+- Repeat spraying every 7–10 days if needed.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹900 – ₹2000
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1200 – ₹2700 per acre
+
+Recovery Time:
+Plants may improve in about 1–3 weeks if treated early.
+
+Prevention:
+- Remove nearby infected cedar or juniper plants if possible.
+- Maintain proper distance between apple trees.
+- Keep good air circulation in the orchard.
+- Remove infected plant parts quickly.
+
+Best Farming Practices:
+- Regular pruning of trees
+- Maintain orchard cleanliness
+- Monitor plants often for disease
+- Use balanced fertilizer
+
+Effect on Yield:
+If not controlled, the disease can reduce fruit quality and yield.
+
+Farmer Advice:
+Check leaves regularly for yellow or orange spots. Early fungicide spray and good orchard care can help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Cedar Apple Rust (Gymnosporangium juniperi-virginianae)

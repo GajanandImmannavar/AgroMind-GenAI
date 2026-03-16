@@ -1,0 +1,84 @@
+Disease Name: Healthy Plant
+
+Crop:
+Apple
+
+Scientific Name:
+Malus domestica
+
+Plant Condition:
+Healthy (No disease)
+
+Affected Plant Parts:
+Leaves, fruits, and branches are healthy
+
+Description:
+The apple plant is healthy and shows no signs of disease. The leaves are green and fresh, and the fruits grow normally. Proper care and regular monitoring help keep the plant healthy.
+
+Cause:
+- Plant is healthy
+- No disease detected
+- Proper care and good growing conditions
+
+Favorable Conditions:
+- Proper sunlight
+- Good soil nutrients
+- Regular watering
+- Good air circulation
+
+Symptoms:
+- Leaves are green and clean
+- No spots or discoloration on leaves
+- Fruits grow normally
+- Branches look strong and healthy
+- No signs of infection or damage
+
+Plant Condition Spread:
+- Not applicable because the plant is healthy
+
+Steps to Keep Plant Healthy:
+1. Continue regular watering based on plant needs.
+2. Apply balanced fertilizer to maintain plant growth.
+3. Remove weeds around the plant.
+4. Monitor plants regularly for early signs of disease.
+5. Maintain good field or orchard cleanliness.
+
+Recommended Nutrients / Fertilizer:
+- Organic compost
+- NPK balanced fertilizer
+- Farmyard manure
+
+How to Apply:
+- Apply fertilizer around the root area.
+- Water the plant after fertilizer application.
+- Follow recommended fertilizer schedule.
+
+Cost per Acre (Approximate):
+- Fertilizer cost: ₹1000 – ₹3000 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1300 – ₹3700 per acre
+
+Plant Growth Monitoring Time:
+Check plant condition every 7–10 days.
+
+Prevention:
+- Maintain proper watering schedule
+- Use healthy planting material
+- Keep the field clean
+- Provide proper sunlight and spacing
+
+Best Farming Practices:
+- Regular field inspection
+- Balanced fertilizer use
+- Good soil management
+- Proper pruning of branches
+
+Effect on Yield:
+Healthy plants produce good quality fruits and higher yield.
+
+Farmer Advice:
+Keep monitoring the plants regularly and maintain proper watering, fertilization, and field cleanliness to keep the apple plants healthy.
+
+Source:
+Agriculture Crop Management Guides
+Apple Cultivation and Plant Health Management Studies

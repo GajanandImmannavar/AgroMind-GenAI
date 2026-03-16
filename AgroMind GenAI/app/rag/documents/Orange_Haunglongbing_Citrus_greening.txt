@@ -1,0 +1,87 @@
+Disease Name: Citrus Greening (Huanglongbing)
+
+Crop:
+Orange (Citrus)
+
+Scientific Name:
+Candidatus Liberibacter asiaticus
+
+Disease Type:
+Bacterial Disease
+
+Affected Plant Parts:
+Leaves, fruits, branches, and roots
+
+Description:
+Citrus Greening, also called Huanglongbing (HLB), is a serious disease that affects orange and other citrus plants. It spreads mainly through small insects called psyllids. The disease weakens the tree, causes poor fruit quality, and can reduce crop production if not managed early.
+
+Cause:
+- Caused by a bacterium called Candidatus Liberibacter asiaticus
+- Spread by small insects called Asian citrus psyllids
+- Spreads faster in warm weather
+
+Favorable Conditions:
+- Warm temperatures
+- Presence of psyllid insects
+- Poor orchard management
+- Lack of insect control
+
+Symptoms:
+- Yellowing of leaves
+- Patchy yellow patterns on leaves
+- Small and uneven fruits
+- Fruits may taste bitter
+- Weak plant growth
+- Leaves may drop early
+
+Disease Spread:
+- Spread by psyllid insects feeding on plant sap
+- Infected planting material can spread the disease
+- Insects carry the bacteria from one tree to another
+
+Steps to Make Plant Healthy:
+1. Monitor trees regularly for early symptoms.
+2. Control psyllid insects using recommended sprays.
+3. Remove severely infected trees to prevent spread.
+4. Use healthy planting material for new plants.
+5. Maintain good orchard sanitation.
+
+Recommended Medicine (Insect Control):
+- Imidacloprid
+- Thiamethoxam
+- Spinosad
+
+How to Apply:
+- Spray insecticide evenly on leaves and branches.
+- Focus on new shoots where psyllids usually feed.
+- Repeat spraying based on pest presence.
+
+Cost per Acre (Approximate):
+- Insecticide cost: ₹1200 – ₹2500 per acre
+- Labor cost: ₹400 – ₹800
+- Total cost: about ₹1600 – ₹3300 per acre
+
+Recovery Time:
+There is no complete cure. Early management helps slow the spread and protect healthy trees.
+
+Prevention:
+- Control insect population in orchard
+- Use disease-free planting material
+- Remove infected trees early
+- Monitor orchard regularly
+
+Best Farming Practices:
+- Regular pest monitoring
+- Orchard cleanliness
+- Balanced fertilizer use
+- Proper irrigation management
+
+Effect on Yield:
+If not controlled, Citrus Greening can severely reduce fruit production and tree health.
+
+Farmer Advice:
+Check orange trees regularly for yellow patchy leaves and small fruits. Control psyllid insects quickly and remove infected trees to protect the orchard.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Citrus Greening (Huanglongbing) – Candidatus Liberibacter asiaticus

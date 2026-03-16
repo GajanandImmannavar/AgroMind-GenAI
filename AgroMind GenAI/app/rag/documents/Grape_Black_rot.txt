@@ -1,0 +1,86 @@
+Disease Name: Black Rot
+
+Crop:
+Grape
+
+Scientific Name:
+Guignardia bidwellii
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves, fruits, and shoots
+
+Description:
+Black Rot is a common disease in grape plants. It spreads mainly in warm and humid weather. The disease can damage leaves and fruits, causing fruits to become black, dry, and shriveled. If not controlled early, it can reduce grape quality and yield.
+
+Cause:
+- Caused by a fungus called Guignardia bidwellii
+- Spreads in warm and humid weather
+- Rain and moisture help the fungus spread
+
+Favorable Conditions:
+- Warm temperatures
+- High humidity
+- Frequent rainfall
+- Wet leaves for long periods
+
+Symptoms:
+- Brown spots on leaves
+- Small dark spots may appear on fruits
+- Fruits become black, dry, and shriveled
+- Leaves may dry and fall early
+- Infected fruits may remain hanging on vines
+
+Disease Spread:
+- Spores spread through wind
+- Rain splash spreads the fungus
+- Infected plant debris in the vineyard
+
+Steps to Make Plant Healthy:
+1. Remove fallen leaves and infected fruits.
+2. Prune infected branches and shoots.
+3. Spray recommended fungicide early.
+4. Maintain proper spacing between vines.
+5. Keep the vineyard clean.
+
+Recommended Medicine:
+- Mancozeb
+- Captan
+- Myclobutanil
+
+How to Apply:
+- Spray fungicide evenly on leaves and fruits.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if needed.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹900 – ₹2000 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1200 – ₹2700 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Remove fallen leaves and infected fruits
+- Maintain good air circulation
+- Avoid overcrowding of vines
+- Keep vineyard clean
+
+Best Farming Practices:
+- Regular pruning
+- Vineyard cleanliness
+- Balanced fertilizer use
+- Regular crop monitoring
+
+Effect on Yield:
+If not controlled, Black Rot can reduce grape yield and fruit quality.
+
+Farmer Advice:
+Check grape leaves and fruits regularly for brown spots or black shriveled fruits. Early fungicide spraying and proper vineyard care help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Grape Black Rot (Guignardia bidwellii)

@@ -1,0 +1,86 @@
+Disease Name: Leaf Mold
+
+Crop:
+Tomato
+
+Scientific Name:
+Passalora fulva (also known as Fulvia fulva)
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves
+
+Description:
+Leaf Mold is a disease that mainly affects tomato plants grown in greenhouses or areas with high humidity. The disease causes yellow spots on the upper surface of leaves and mold growth under the leaves. If not controlled early, it can weaken the plant and reduce crop yield.
+
+Cause:
+- Caused by a fungus called Passalora fulva
+- Spreads in humid greenhouse conditions
+- High moisture and poor air circulation help the fungus grow
+
+Favorable Conditions:
+- High humidity
+- Poor ventilation
+- Crowded plants
+- Wet leaf surfaces
+
+Symptoms:
+- Yellow spots on the upper surface of leaves
+- Gray or green mold under the leaves
+- Leaves may curl
+- Leaves may dry and fall early
+- Weak plant growth if infection becomes severe
+
+Disease Spread:
+- Spores spread through air movement
+- Humid greenhouse conditions increase infection
+- Infected plant debris can spread the disease
+
+Steps to Make Plant Healthy:
+1. Remove infected leaves from the plant.
+2. Improve ventilation in the greenhouse.
+3. Maintain proper spacing between plants.
+4. Spray recommended fungicide early.
+5. Monitor plants regularly.
+
+Recommended Medicine:
+- Chlorothalonil
+- Mancozeb
+- Copper-based fungicides
+
+How to Apply:
+- Spray fungicide evenly on both sides of leaves.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if necessary.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹800 – ₹1700 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1100 – ₹2400 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Improve ventilation in greenhouse
+- Avoid overcrowding plants
+- Reduce humidity levels
+- Remove infected plant parts early
+
+Best Farming Practices:
+- Maintain good airflow
+- Regular plant inspection
+- Balanced fertilizer use
+- Proper greenhouse management
+
+Effect on Yield:
+If not controlled, Leaf Mold can reduce tomato plant growth and crop production.
+
+Farmer Advice:
+Check tomato leaves regularly for yellow spots and mold under leaves. Improving airflow and early fungicide spraying can help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Tomato Leaf Mold (Passalora fulva)

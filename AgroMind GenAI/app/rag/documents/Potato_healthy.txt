@@ -1,0 +1,83 @@
+Disease Name: Healthy Plant
+
+Crop:
+Potato
+
+Scientific Name:
+Solanum tuberosum
+
+Plant Condition:
+Healthy (No disease)
+
+Affected Plant Parts:
+Leaves, stems, and tubers are healthy
+
+Description:
+The potato plant is healthy and growing normally. The leaves are green and fresh, and the tubers develop properly in the soil. Good farming practices help maintain plant health and improve potato yield.
+
+Cause:
+- No disease detected
+- Proper plant care
+- Good growing conditions
+
+Favorable Conditions:
+- Adequate sunlight
+- Healthy soil with nutrients
+- Proper irrigation
+- Good air circulation
+
+Symptoms:
+- Leaves are green and healthy
+- No spots or discoloration
+- Strong plant growth
+- Good tuber development in the soil
+
+Plant Condition Spread:
+- Not applicable because the plant is healthy
+
+Steps to Keep Plant Healthy:
+1. Maintain proper watering based on crop needs.
+2. Apply balanced fertilizers for healthy growth.
+3. Remove weeds from the field.
+4. Monitor plants regularly for early signs of disease or pests.
+5. Keep the field clean.
+
+Recommended Nutrients / Fertilizer:
+- Organic compost
+- NPK balanced fertilizer
+- Farmyard manure
+
+How to Apply:
+- Apply fertilizer near the root area.
+- Water the plants after fertilizer application.
+- Follow recommended fertilizer schedule.
+
+Cost per Acre (Approximate):
+- Fertilizer cost: ₹1000 – ₹3000 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1300 – ₹3700 per acre
+
+Plant Monitoring Time:
+Check plant condition every 7–10 days.
+
+Prevention:
+- Maintain proper watering
+- Use healthy seed potatoes
+- Keep field clean
+- Maintain proper spacing between plants
+
+Best Farming Practices:
+- Regular field inspection
+- Balanced fertilizer use
+- Good soil management
+- Proper weed control
+
+Effect on Yield:
+Healthy plants produce good quality potatoes and higher yield.
+
+Farmer Advice:
+Continue good farming practices such as proper watering, fertilization, and regular monitoring to keep potato plants healthy.
+
+Source:
+Agriculture Crop Management Guides
+Potato Cultivation and Plant Health Management Studies

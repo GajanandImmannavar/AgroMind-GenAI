@@ -1,0 +1,85 @@
+Disease Name: Powdery Mildew
+
+Crop:
+Squash
+
+Scientific Name:
+Podosphaera xanthii / Erysiphe cichoracearum
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves, stems, and sometimes fruits
+
+Description:
+Powdery Mildew is a common disease in squash plants. It spreads mainly in warm and dry weather. The disease forms a white powder-like layer on leaves and can weaken the plant if not controlled early.
+
+Cause:
+- Caused by fungi such as Podosphaera xanthii or Erysiphe cichoracearum
+- Spreads in warm and dry weather
+- Wind helps carry fungal spores from plant to plant
+
+Favorable Conditions:
+- Warm temperatures
+- Dry weather with moderate humidity
+- Poor air circulation
+- Dense plant growth
+
+Symptoms:
+- White powder-like layer on leaves
+- Leaves may turn yellow
+- Leaves may dry and fall early
+- Reduced plant growth in severe cases
+
+Disease Spread:
+- Spores spread through wind
+- Infection spreads quickly between nearby plants
+- Crowded plants increase disease spread
+
+Steps to Make Plant Healthy:
+1. Remove infected leaves from the plant.
+2. Maintain proper spacing between plants.
+3. Improve air circulation in the field.
+4. Spray recommended fungicide early.
+5. Monitor plants regularly.
+
+Recommended Medicine:
+- Sulfur fungicide
+- Potassium bicarbonate spray
+- Myclobutanil
+
+How to Apply:
+- Spray fungicide evenly on leaves.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if necessary.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹800 – ₹1700 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1100 – ₹2400 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Maintain proper spacing between plants
+- Improve air circulation
+- Avoid excess nitrogen fertilizer
+- Monitor crops regularly
+
+Best Farming Practices:
+- Regular field inspection
+- Proper plant spacing
+- Balanced fertilizer use
+- Good weed control
+
+Effect on Yield:
+If not controlled, Powdery Mildew can reduce squash plant growth and fruit production.
+
+Farmer Advice:
+Check squash leaves regularly for white powder-like spots. Early fungicide spraying and good field management help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Squash Powdery Mildew (Podosphaera xanthii)

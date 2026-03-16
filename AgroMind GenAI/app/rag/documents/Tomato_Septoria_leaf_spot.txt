@@ -1,0 +1,86 @@
+Disease Name: Septoria Leaf Spot
+
+Crop:
+Tomato
+
+Scientific Name:
+Septoria lycopersici
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves
+
+Description:
+Septoria Leaf Spot is a common disease in tomato plants. It spreads mainly during rainy and humid weather. The disease causes small gray spots on leaves and can lead to leaf drop if not controlled early.
+
+Cause:
+- Caused by a fungus called Septoria lycopersici
+- Spreads during rainy and humid weather
+- The fungus survives in infected plant debris in the soil
+
+Favorable Conditions:
+- Warm temperatures
+- High humidity
+- Frequent rainfall
+- Wet leaves for long periods
+
+Symptoms:
+- Small round gray spots with dark borders on leaves
+- Yellowing around infected areas
+- Leaves may turn yellow
+- Severe infection causes leaf drop
+- Weak plant growth if infection becomes severe
+
+Disease Spread:
+- Spores spread through wind and rain splash
+- Infected plant debris in soil spreads the disease
+- Wet field conditions increase infection
+
+Steps to Make Plant Healthy:
+1. Remove infected leaves from plants early.
+2. Spray recommended fungicide when symptoms appear.
+3. Maintain proper spacing between plants.
+4. Monitor plants regularly for new spots.
+5. Keep the field clean and remove plant debris.
+
+Recommended Medicine:
+- Mancozeb
+- Chlorothalonil
+- Copper-based fungicides
+
+How to Apply:
+- Spray fungicide evenly on leaves.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if needed.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹800 – ₹1800 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1100 – ₹2500 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Avoid overhead irrigation
+- Practice crop rotation
+- Remove plant debris after harvest
+- Maintain proper plant spacing
+
+Best Farming Practices:
+- Regular field inspection
+- Balanced fertilizer use
+- Proper soil management
+- Good weed control
+
+Effect on Yield:
+If not controlled, Septoria Leaf Spot can reduce tomato plant growth and crop yield.
+
+Farmer Advice:
+Check tomato leaves regularly for small gray spots with dark borders. Early fungicide spraying and proper field management help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Tomato Septoria Leaf Spot (Septoria lycopersici)

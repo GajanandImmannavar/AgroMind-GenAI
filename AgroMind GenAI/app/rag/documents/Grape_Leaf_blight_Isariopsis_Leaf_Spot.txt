@@ -1,0 +1,86 @@
+Disease Name: Leaf Blight
+
+Crop:
+Grape
+
+Scientific Name:
+Phomopsis viticola
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves, shoots, and sometimes fruits
+
+Description:
+Leaf Blight is a disease that affects grape plants. It spreads mostly during the rainy season when the weather is warm and humid. The disease causes brown spots on leaves and can weaken the plant if not controlled early.
+
+Cause:
+- Caused by a fungus called Phomopsis viticola
+- Spreads during rainy and humid weather
+- The fungus survives in infected plant parts
+
+Favorable Conditions:
+- Rainy season
+- High humidity
+- Wet leaves for long periods
+- Poor air circulation
+
+Symptoms:
+- Brown spots on leaves
+- Leaves may turn yellow
+- Leaves may dry and fall early
+- Weak plant growth
+- Reduced fruit quality if infection becomes severe
+
+Disease Spread:
+- Spores spread through wind and rain
+- Infection spreads from infected plant debris
+- Wet conditions help the fungus grow
+
+Steps to Make Plant Healthy:
+1. Remove infected leaves and plant debris.
+2. Maintain proper spacing between vines.
+3. Improve air flow through pruning.
+4. Spray recommended fungicide when symptoms appear.
+5. Monitor plants regularly.
+
+Recommended Medicine:
+- Mancozeb
+- Captan
+- Copper-based fungicide
+
+How to Apply:
+- Spray fungicide evenly on leaves.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if needed.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹900 – ₹1800 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1200 – ₹2500 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Maintain proper spacing between vines
+- Improve air circulation
+- Remove infected leaves
+- Keep vineyard clean
+
+Best Farming Practices:
+- Regular pruning
+- Vineyard cleanliness
+- Balanced fertilizer use
+- Regular crop monitoring
+
+Effect on Yield:
+If not controlled, Leaf Blight can reduce grape quality and plant health.
+
+Farmer Advice:
+Check grape leaves regularly for brown spots. Early fungicide spraying and good vineyard care can help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Grape Leaf Blight (Phomopsis viticola)

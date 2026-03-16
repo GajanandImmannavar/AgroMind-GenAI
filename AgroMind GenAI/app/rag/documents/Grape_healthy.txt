@@ -1,0 +1,83 @@
+Disease Name: Healthy Plant
+
+Crop:
+Grape
+
+Scientific Name:
+Vitis vinifera
+
+Plant Condition:
+Healthy (No disease)
+
+Affected Plant Parts:
+Leaves, vines, and fruits are healthy
+
+Description:
+The grape plant is healthy and growing normally. The leaves are green and fresh, and the fruits develop properly. Good vineyard management helps maintain plant health and improves grape production.
+
+Cause:
+- No disease detected
+- Proper plant care
+- Good growing conditions
+
+Favorable Conditions:
+- Adequate sunlight
+- Healthy soil with nutrients
+- Proper irrigation
+- Good air circulation
+
+Symptoms:
+- Green and healthy leaves
+- No unusual spots or patches
+- Strong vines
+- Good fruit development
+
+Plant Condition Spread:
+- Not applicable because the plant is healthy
+
+Steps to Keep Plant Healthy:
+1. Maintain regular pruning of vines.
+2. Apply balanced fertilizers for good growth.
+3. Remove weeds around the plants.
+4. Monitor the vineyard regularly for early signs of disease or pests.
+5. Keep the vineyard clean.
+
+Recommended Nutrients / Fertilizer:
+- Organic compost
+- NPK balanced fertilizer
+- Farmyard manure
+
+How to Apply:
+- Apply fertilizer near the root area.
+- Water the plant after fertilizer application.
+- Follow the recommended fertilizer schedule.
+
+Cost per Acre (Approximate):
+- Fertilizer cost: ₹1000 – ₹3000 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1300 – ₹3700 per acre
+
+Plant Monitoring Time:
+Check plant condition every 7–10 days.
+
+Prevention:
+- Maintain proper pruning
+- Use healthy planting material
+- Keep the vineyard clean
+- Maintain proper spacing between vines
+
+Best Farming Practices:
+- Regular vineyard inspection
+- Balanced fertilizer use
+- Proper soil management
+- Good weed control
+
+Effect on Yield:
+Healthy plants produce better quality grapes and higher yield.
+
+Farmer Advice:
+Continue good vineyard practices such as regular pruning, proper fertilization, and monitoring to keep grape plants healthy.
+
+Source:
+Agriculture Crop Management Guides
+Grape Cultivation and Plant Health Management Studies

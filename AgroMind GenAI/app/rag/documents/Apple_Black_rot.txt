@@ -1,0 +1,64 @@
+Disease Name: Apple Black Rot
+
+Crop: Apple
+
+Scientific Name: Botryosphaeria obtusa
+
+Disease Type: Fungal Disease
+
+Affected Plant Parts: Leaves, fruits, branches
+
+Description:
+Apple Black Rot is a disease that affects apple trees. It spreads mostly in warm and wet weather and damages leaves and fruits.
+
+Cause:
+Caused by a fungus called Botryosphaeria obtusa.
+
+Favorable Conditions:
+Warm weather, high humidity, and rainy conditions.
+
+Symptoms:
+Brown or black spots on leaves.
+Dark rotten patches on fruits.
+Fruits may shrink and dry.
+
+Disease Spread:
+Spreads through wind, rain, and infected plant parts.
+
+Steps to Make Plant Healthy:
+Remove infected leaves and fruits.
+Prune infected branches.
+Spray recommended fungicide.
+
+Recommended Medicine:
+Mancozeb
+Captan
+Copper fungicide
+
+How to Apply:
+Spray evenly on leaves and fruits every 7–10 days.
+
+Cost per Acre:
+₹1200 – ₹2700 per acre.
+
+Recovery Time:
+1–3 weeks if treated early.
+
+Prevention:
+Keep orchard clean.
+Remove fallen leaves.
+Improve air flow between trees.
+
+Best Farming Practices:
+Regular pruning
+Orchard cleaning
+Balanced fertilizer use
+
+Effect on Yield:
+Can reduce fruit quality and production.
+
+Farmer Advice:
+Check trees regularly and remove infected plant parts quickly.
+
+Source:
+Agriculture Plant Disease Management Guides

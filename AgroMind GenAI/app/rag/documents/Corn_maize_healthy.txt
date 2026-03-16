@@ -1,0 +1,83 @@
+Disease Name: Healthy Plant
+
+Crop:
+Corn (Maize)
+
+Scientific Name:
+Zea mays
+
+Plant Condition:
+Healthy (No disease)
+
+Affected Plant Parts:
+Leaves, stem, and ears are healthy
+
+Description:
+The corn plant is healthy and growing normally. The leaves are green and clean, and the plant shows normal growth. Proper farming practices help maintain good plant health and improve crop production.
+
+Cause:
+- No disease detected
+- Proper crop care
+- Good growing conditions
+
+Favorable Conditions:
+- Adequate sunlight
+- Healthy soil with nutrients
+- Proper irrigation
+- Good air circulation
+
+Symptoms:
+- Leaves are green and clean
+- No spots or unusual patches
+- Strong stem growth
+- Healthy development of corn ears
+
+Plant Condition Spread:
+- Not applicable because the plant is healthy
+
+Steps to Keep Plant Healthy:
+1. Maintain a regular watering schedule.
+2. Apply balanced fertilizers for good plant growth.
+3. Remove weeds from the field.
+4. Monitor plants regularly for early signs of disease or pests.
+5. Maintain proper field cleanliness.
+
+Recommended Nutrients / Fertilizer:
+- Organic compost
+- NPK balanced fertilizer
+- Farmyard manure
+
+How to Apply:
+- Apply fertilizer near the root area.
+- Water the plants after fertilizer application.
+- Follow the recommended fertilizer schedule.
+
+Cost per Acre (Approximate):
+- Fertilizer cost: ₹1000 – ₹3000 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1300 – ₹3700 per acre
+
+Plant Monitoring Time:
+Check plant condition every 7–10 days.
+
+Prevention:
+- Maintain proper watering
+- Use quality seeds
+- Keep field clean
+- Maintain proper spacing between plants
+
+Best Farming Practices:
+- Regular field inspection
+- Balanced fertilizer use
+- Proper soil management
+- Good weed control
+
+Effect on Yield:
+Healthy plants produce good quality corn and higher yield.
+
+Farmer Advice:
+Continue good farming practices such as proper watering, fertilization, and regular monitoring to keep corn plants healthy.
+
+Source:
+Agriculture Crop Management Guides
+Corn Cultivation and Plant Health Management Studies

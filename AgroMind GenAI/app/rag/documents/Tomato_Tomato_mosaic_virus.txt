@@ -1,0 +1,88 @@
+Disease Name: Tomato Mosaic Virus
+
+Crop:
+Tomato
+
+Scientific Name:
+Tomato mosaic virus (ToMV)
+
+Disease Type:
+Viral Disease
+
+Affected Plant Parts:
+Leaves, stems, and fruits
+
+Description:
+Tomato Mosaic Virus is a viral disease that affects tomato plants. The virus spreads easily through infected seeds, plant debris, tools, and human handling. It causes leaf discoloration and poor plant growth, which can reduce fruit production.
+
+Cause:
+- Caused by Tomato mosaic virus (ToMV)
+- Spread through infected seeds
+- Spread by contaminated tools, hands, and plant debris
+
+Favorable Conditions:
+- Handling infected plants
+- Using contaminated tools
+- Poor field sanitation
+- Continuous tomato cropping without rotation
+
+Symptoms:
+- Mosaic pattern of light and dark green on leaves
+- Leaves may curl or become distorted
+- Stunted plant growth
+- Fruits may be smaller than normal
+- Reduced crop yield
+
+Disease Spread:
+- Spread through infected seeds
+- Spread by contaminated tools and hands
+- Spread through infected plant debris
+- Mechanical contact between plants
+
+Steps to Make Plant Healthy:
+1. Remove infected plants immediately.
+2. Disinfect tools before working on healthy plants.
+3. Avoid touching healthy plants after infected plants.
+4. Maintain field sanitation.
+5. Monitor plants regularly for early symptoms.
+
+Recommended Control Measures:
+- Use certified virus-free seeds
+- Use resistant tomato varieties
+- Maintain strict field hygiene
+
+How to Apply Control Measures:
+- Disinfect tools using bleach or disinfectant solution.
+- Remove and destroy infected plants away from the field.
+- Wash hands before handling healthy plants.
+
+Cost per Acre (Approximate):
+- Sanitation and management cost: ₹500 – ₹1500 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹800 – ₹2200 per acre
+
+Recovery Time:
+Infected plants cannot recover. Early removal helps protect healthy plants.
+
+Prevention:
+- Use certified virus-free seeds
+- Disinfect tools regularly
+- Remove infected plants quickly
+- Avoid handling plants when wet
+- Practice crop rotation
+
+Best Farming Practices:
+- Maintain field sanitation
+- Regular crop monitoring
+- Use resistant varieties
+- Proper crop rotation
+
+Effect on Yield:
+If not controlled, Tomato Mosaic Virus can significantly reduce plant growth and tomato yield.
+
+Farmer Advice:
+Check tomato plants regularly for mosaic patterns on leaves. Remove infected plants quickly and keep tools clean to prevent the virus from spreading.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Tomato Mosaic Virus (ToMV)

@@ -1,0 +1,86 @@
+Disease Name: Leaf Scorch
+
+Crop:
+Strawberry
+
+Scientific Name:
+Diplocarpon earlianum
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves
+
+Description:
+Leaf Scorch is a disease that affects strawberry plants. It spreads mostly in warm and humid weather. The disease causes small red or purple spots on leaves, and the leaf edges may turn brown and dry if the infection becomes severe.
+
+Cause:
+- Caused by a fungus called Diplocarpon earlianum
+- Spreads in warm and humid weather
+- The fungus survives in infected leaves and plant debris
+
+Favorable Conditions:
+- Warm temperatures
+- High humidity
+- Frequent rainfall
+- Wet leaves for long periods
+
+Symptoms:
+- Small purple or red spots on leaves
+- Spots may join and form larger patches
+- Leaves may turn brown at the edges
+- Leaves may dry if infection becomes severe
+- Weak plant growth
+
+Disease Spread:
+- Spores spread through wind and rain
+- Infected plant debris spreads the disease
+- Wet conditions help the fungus grow
+
+Steps to Make Plant Healthy:
+1. Remove infected leaves from the plants.
+2. Maintain proper spacing between plants.
+3. Improve air circulation in the field.
+4. Spray recommended fungicide early.
+5. Monitor plants regularly.
+
+Recommended Medicine:
+- Mancozeb
+- Captan
+- Copper-based fungicide
+
+How to Apply:
+- Spray fungicide evenly on leaves.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if necessary.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹800 – ₹1700 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1100 – ₹2400 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Avoid overhead watering
+- Maintain proper spacing between plants
+- Remove old infected leaves
+- Keep the field clean
+
+Best Farming Practices:
+- Regular field inspection
+- Proper plant spacing
+- Balanced fertilizer use
+- Good weed control
+
+Effect on Yield:
+If not controlled, Leaf Scorch can reduce strawberry plant growth and fruit production.
+
+Farmer Advice:
+Check strawberry leaves regularly for small red or purple spots. Early fungicide spraying and proper field care help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Strawberry Leaf Scorch (Diplocarpon earlianum)

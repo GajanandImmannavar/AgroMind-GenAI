@@ -1,0 +1,83 @@
+Disease Name: Healthy Plant
+
+Crop:
+Bell Pepper
+
+Scientific Name:
+Capsicum annuum
+
+Plant Condition:
+Healthy (No disease)
+
+Affected Plant Parts:
+Leaves, stems, and fruits are healthy
+
+Description:
+The bell pepper plant is healthy and growing normally. The leaves are green and fresh, and the fruits develop properly. Proper farming care helps maintain plant health and good crop production.
+
+Cause:
+- No disease detected
+- Proper plant care
+- Good growing conditions
+
+Favorable Conditions:
+- Adequate sunlight
+- Healthy soil with nutrients
+- Proper irrigation
+- Good air circulation
+
+Symptoms:
+- Green and healthy leaves
+- No spots, patches, or discoloration
+- Strong stems
+- Normal fruit development
+
+Plant Condition Spread:
+- Not applicable because the plant is healthy
+
+Steps to Keep Plant Healthy:
+1. Maintain regular watering based on crop needs.
+2. Apply balanced fertilizers for proper growth.
+3. Remove weeds around the plants.
+4. Monitor plants regularly for early signs of disease or pests.
+5. Maintain field cleanliness.
+
+Recommended Nutrients / Fertilizer:
+- Organic compost
+- NPK balanced fertilizer
+- Farmyard manure
+
+How to Apply:
+- Apply fertilizer near the root area.
+- Water the plant after fertilizer application.
+- Follow recommended fertilizer schedule.
+
+Cost per Acre (Approximate):
+- Fertilizer cost: ₹1000 – ₹3000 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1300 – ₹3700 per acre
+
+Plant Monitoring Time:
+Check plant condition every 7–10 days.
+
+Prevention:
+- Maintain proper irrigation
+- Use quality seeds
+- Keep field clean
+- Maintain proper spacing between plants
+
+Best Farming Practices:
+- Regular field inspection
+- Balanced fertilizer use
+- Proper soil management
+- Good weed control
+
+Effect on Yield:
+Healthy plants produce better quality peppers and higher yield.
+
+Farmer Advice:
+Continue good farming practices such as proper watering, fertilization, and regular monitoring to keep bell pepper plants healthy.
+
+Source:
+Agriculture Crop Management Guides
+Pepper Cultivation and Plant Health Management Studies

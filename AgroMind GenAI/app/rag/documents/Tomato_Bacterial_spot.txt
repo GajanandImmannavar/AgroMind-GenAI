@@ -1,0 +1,86 @@
+Disease Name: Bacterial Spot
+
+Crop:
+Tomato
+
+Scientific Name:
+Xanthomonas campestris pv. vesicatoria
+
+Disease Type:
+Bacterial Disease
+
+Affected Plant Parts:
+Leaves, stems, and fruits
+
+Description:
+Bacterial Spot is a common disease in tomato plants. It spreads mostly in warm and wet weather. The disease causes small dark spots on leaves and fruits and can reduce crop quality if not controlled early.
+
+Cause:
+- Caused by a bacterium called Xanthomonas campestris pv. vesicatoria
+- Spreads in warm and humid weather
+- Rain splash and contaminated tools help spread the bacteria
+
+Favorable Conditions:
+- Warm temperatures
+- High humidity
+- Frequent rainfall
+- Wet leaves for long periods
+
+Symptoms:
+- Small dark spots on leaves
+- Spots may have yellow borders
+- Leaves may turn yellow and fall early
+- Fruits may develop rough or scabby patches
+- Reduced fruit quality
+
+Disease Spread:
+- Spread through rain splash
+- Contaminated tools and equipment
+- Infected seeds and plant material
+
+Steps to Make Plant Healthy:
+1. Remove infected leaves and plant parts.
+2. Keep the field clean and remove plant debris.
+3. Spray recommended bactericide early.
+4. Maintain proper spacing between plants.
+5. Monitor plants regularly.
+
+Recommended Medicine:
+- Copper oxychloride
+- Copper hydroxide
+- Streptomycin spray (where recommended)
+
+How to Apply:
+- Spray bactericide evenly on leaves and fruits.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if necessary.
+
+Cost per Acre (Approximate):
+- Bactericide cost: ₹900 – ₹1800 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1200 – ₹2500 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Use disease-free seeds
+- Avoid working in wet field
+- Keep tools clean
+- Practice crop rotation
+
+Best Farming Practices:
+- Regular field inspection
+- Balanced fertilizer use
+- Proper plant spacing
+- Good field sanitation
+
+Effect on Yield:
+If not controlled, Bacterial Spot can reduce tomato yield and fruit quality.
+
+Farmer Advice:
+Check tomato leaves regularly for small dark spots with yellow edges. Early bactericide spraying and good field hygiene help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Tomato Bacterial Spot (Xanthomonas campestris pv. vesicatoria)

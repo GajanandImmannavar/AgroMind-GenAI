@@ -1,0 +1,86 @@
+Disease Name: Spider Mites
+
+Crop:
+Tomato
+
+Scientific Name:
+Tetranychus urticae
+
+Disease Type:
+Pest Infestation (Mites)
+
+Affected Plant Parts:
+Leaves
+
+Description:
+Spider mites are tiny pests that attack tomato plants. They are very small and difficult to see with the naked eye. These mites feed on plant sap and weaken the plant. The problem usually appears during hot and dry weather.
+
+Cause:
+- Caused by attack of tiny pests called spider mites
+- Spreads in hot and dry weather
+- Dusty conditions help mites multiply quickly
+
+Favorable Conditions:
+- Hot temperatures
+- Dry weather
+- Dusty fields
+- Low humidity
+
+Symptoms:
+- Tiny yellow or white dots on leaves
+- Leaves may turn brown or dry
+- Fine web-like threads under the leaves
+- Leaves may curl in severe cases
+- Weak plant growth
+
+Disease Spread:
+- Mites spread through wind
+- Spread by contact between plants
+- Dusty conditions help mites move easily
+
+Steps to Make Plant Healthy:
+1. Spray water on plants to reduce mites.
+2. Remove heavily infected leaves.
+3. Spray recommended miticide if infestation increases.
+4. Maintain proper irrigation.
+5. Monitor plants regularly.
+
+Recommended Medicine:
+- Abamectin
+- Spiromesifen
+- Neem oil spray
+
+How to Apply:
+- Spray miticide evenly on leaves, especially under the leaves.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if needed.
+
+Cost per Acre (Approximate):
+- Miticide cost: ₹900 – ₹2000 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1200 – ₹2700 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks after proper treatment.
+
+Prevention:
+- Maintain proper irrigation
+- Avoid dusty conditions
+- Encourage natural predators
+- Monitor crops regularly
+
+Best Farming Practices:
+- Regular field inspection
+- Proper irrigation management
+- Balanced fertilizer use
+- Maintain field cleanliness
+
+Effect on Yield:
+If not controlled, spider mites can weaken tomato plants and reduce crop yield.
+
+Farmer Advice:
+Check the underside of tomato leaves for tiny dots and web-like threads. Early control with water spray and miticide helps prevent severe damage.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Spider Mites in Tomato (Tetranychus urticae)

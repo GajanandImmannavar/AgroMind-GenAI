@@ -1,0 +1,86 @@
+Disease Name: Late Blight
+
+Crop:
+Potato
+
+Scientific Name:
+Phytophthora infestans
+
+Disease Type:
+Fungal-like Disease (Oomycete)
+
+Affected Plant Parts:
+Leaves, stems, and tubers
+
+Description:
+Late Blight is a serious disease in potato plants. It spreads quickly in cool and wet weather. The disease causes dark patches on leaves and stems and can damage the crop quickly if not controlled early.
+
+Cause:
+- Caused by Phytophthora infestans
+- Spreads quickly in cool and wet weather
+- Rain, wind, and infected plant parts help spread the disease
+
+Favorable Conditions:
+- Cool temperatures
+- High humidity
+- Frequent rainfall
+- Wet leaves for long periods
+
+Symptoms:
+- Dark brown or black patches on leaves
+- White growth under leaves in humid weather
+- Leaves may rot and dry quickly
+- Tubers may rot in the soil
+- Infected plants may collapse in severe cases
+
+Disease Spread:
+- Spores spread through wind and rain
+- Infected seed potatoes can spread the disease
+- Wet field conditions increase infection
+
+Steps to Make Plant Healthy:
+1. Remove infected plants immediately.
+2. Spray recommended fungicide early.
+3. Improve field drainage to reduce moisture.
+4. Maintain proper spacing between plants.
+5. Monitor crops regularly.
+
+Recommended Medicine:
+- Mancozeb
+- Chlorothalonil
+- Copper-based fungicides
+
+How to Apply:
+- Spray fungicide evenly on leaves and stems.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days during wet weather.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹900 – ₹2000 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1200 – ₹2700 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Avoid water staying on leaves
+- Improve drainage in field
+- Use disease-resistant varieties
+- Remove infected plants immediately
+
+Best Farming Practices:
+- Maintain proper plant spacing
+- Improve field drainage
+- Regular crop monitoring
+- Use balanced fertilizers
+
+Effect on Yield:
+If not controlled, Late Blight can destroy large parts of the potato crop and greatly reduce yield.
+
+Farmer Advice:
+Check potato leaves regularly for dark patches and white growth under leaves. Early fungicide spraying and proper field drainage help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Potato Late Blight (Phytophthora infestans)

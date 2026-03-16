@@ -1,0 +1,86 @@
+Disease Name: Bacterial Spot
+
+Crop:
+Peach
+
+Scientific Name:
+Xanthomonas campestris pv. pruni
+
+Disease Type:
+Bacterial Disease
+
+Affected Plant Parts:
+Leaves, fruits, and young shoots
+
+Description:
+Bacterial Spot is a disease that affects peach trees. It spreads mainly in warm and wet weather. The disease causes dark spots on leaves and fruits and can reduce fruit quality if not controlled early.
+
+Cause:
+- Caused by a bacterium called Xanthomonas campestris pv. pruni
+- Spreads in warm and wet weather
+- Rain and wind help spread the bacteria
+
+Favorable Conditions:
+- Warm temperatures
+- High humidity
+- Frequent rainfall
+- Wet leaves for long periods
+
+Symptoms:
+- Small dark spots on leaves
+- Leaves may turn yellow and fall early
+- Rough brown patches on fruits
+- Fruit surface may become cracked or damaged
+- Weak plant growth in severe cases
+
+Disease Spread:
+- Spread by rain splash
+- Wind can carry bacteria
+- Infected plant material and tools can spread the disease
+
+Steps to Make Plant Healthy:
+1. Remove infected leaves and fruits from the tree.
+2. Keep the orchard clean and remove plant debris.
+3. Spray recommended bactericide early.
+4. Maintain proper spacing between trees.
+5. Monitor plants regularly for early symptoms.
+
+Recommended Medicine:
+- Copper-based bactericide
+- Copper oxychloride
+- Streptomycin spray (where recommended)
+
+How to Apply:
+- Spray bactericide evenly on leaves and fruits.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if necessary.
+
+Cost per Acre (Approximate):
+- Bactericide cost: ₹1000 – ₹2000 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1300 – ₹2700 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Use disease-free planting material
+- Avoid working in wet orchard conditions
+- Maintain proper spacing between trees
+- Keep tools clean and disinfected
+
+Best Farming Practices:
+- Regular orchard inspection
+- Balanced fertilizer use
+- Proper pruning of branches
+- Good orchard sanitation
+
+Effect on Yield:
+If not controlled, Bacterial Spot can reduce fruit quality and yield.
+
+Farmer Advice:
+Check peach leaves and fruits regularly for dark spots. Early bactericide spray and proper orchard care help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Peach Bacterial Spot (Xanthomonas campestris pv. pruni)

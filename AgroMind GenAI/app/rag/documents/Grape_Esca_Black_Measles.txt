@@ -1,0 +1,86 @@
+Disease Name: Esca (Black Measles)
+
+Crop:
+Grape
+
+Scientific Name:
+Phaeomoniella chlamydospora and Phaeoacremonium species
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves, branches, trunk, and fruits
+
+Description:
+Esca, also called Black Measles, is a disease that affects grape plants, especially older vines. The fungus lives inside the wood of the plant and slowly damages it. The disease can cause leaf discoloration, fruit spots, and sudden drying of branches.
+
+Cause:
+- Caused by fungi such as Phaeomoniella chlamydospora and Phaeoacremonium species
+- Infection usually enters through pruning wounds
+- Mostly affects older grape plants
+
+Favorable Conditions:
+- Warm temperatures
+- High humidity
+- Poor vineyard sanitation
+- Plant wounds from pruning or damage
+
+Symptoms:
+- Yellow and brown striped patterns on leaves
+- Leaves may dry and fall early
+- Dark spots on grape fruits
+- Sudden drying of branches
+- Weak plant growth
+
+Disease Spread:
+- Fungi enter through pruning wounds
+- Spread through infected plant wood
+- Poor tool sanitation can spread infection
+
+Steps to Make Plant Healthy:
+1. Remove infected branches and plant parts.
+2. Use clean and disinfected pruning tools.
+3. Apply protective spray after pruning.
+4. Maintain proper plant nutrition.
+5. Monitor vines regularly for early symptoms.
+
+Recommended Medicine:
+- Copper-based fungicide
+- Thiophanate-methyl
+- Carbendazim (protective treatment)
+
+How to Apply:
+- Spray protective fungicide after pruning.
+- Apply on pruning wounds and nearby plant areas.
+- Repeat treatment if infection risk remains.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹1000 – ₹2200 per acre
+- Labor cost: ₹400 – ₹800
+- Total cost: about ₹1400 – ₹3000 per acre
+
+Recovery Time:
+Recovery may take several weeks depending on plant damage.
+
+Prevention:
+- Avoid plant injury during pruning
+- Use clean pruning tools
+- Maintain good plant nutrition
+- Remove infected plant parts early
+
+Best Farming Practices:
+- Careful pruning of vines
+- Regular vineyard inspection
+- Maintain good soil nutrition
+- Proper vineyard sanitation
+
+Effect on Yield:
+Severe infection can reduce grape yield and weaken the plant.
+
+Farmer Advice:
+Check grape leaves for yellow and brown stripes and remove infected branches quickly. Keeping pruning tools clean and maintaining plant health helps reduce the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Grape Esca Disease (Phaeomoniella chlamydospora)

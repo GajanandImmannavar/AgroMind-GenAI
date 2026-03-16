@@ -1,0 +1,86 @@
+Disease Name: Common Rust
+
+Crop:
+Corn (Maize)
+
+Scientific Name:
+Puccinia sorghi
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves
+
+Description:
+Common Rust is a disease that affects corn plants. It spreads mostly in cool and humid weather. The disease forms small reddish or brown spots on the leaves. If the infection becomes severe, it can reduce plant growth and crop yield.
+
+Cause:
+- Caused by a fungus called Puccinia sorghi
+- Spreads easily in cool and humid weather
+- Wind helps spread fungal spores from plant to plant
+
+Favorable Conditions:
+- Cool temperatures
+- High humidity
+- Cloudy or wet weather
+- Dense crop growth
+
+Symptoms:
+- Small brown or reddish spots on leaves
+- Raised rust-colored spots on leaf surface
+- Spots may increase in number
+- Leaves may turn yellow and dry early
+- Severe infection may weaken the plant
+
+Disease Spread:
+- Spores spread through wind
+- Moist conditions help the fungus grow
+- Infection spreads quickly in crowded fields
+
+Steps to Make Plant Healthy:
+1. Monitor the crop regularly for early signs.
+2. Remove heavily infected leaves if possible.
+3. Maintain proper spacing between plants.
+4. Spray recommended fungicide if infection increases.
+5. Keep the field clean and well managed.
+
+Recommended Medicine:
+- Mancozeb
+- Propiconazole
+- Azoxystrobin
+
+How to Apply:
+- Spray fungicide evenly on corn leaves.
+- Apply when early symptoms appear.
+- Repeat spraying every 10–14 days if needed.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹800 – ₹1700 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1100 – ₹2400 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Use disease-resistant corn varieties
+- Avoid overcrowding of plants
+- Maintain proper spacing
+- Monitor crops regularly
+
+Best Farming Practices:
+- Maintain good plant spacing
+- Clean field after harvest
+- Regular crop monitoring
+- Use balanced fertilizer
+
+Effect on Yield:
+If not controlled, Common Rust can reduce corn growth and crop yield.
+
+Farmer Advice:
+Check corn leaves regularly for reddish or brown spots. Early detection and proper fungicide spray can help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Corn Common Rust (Puccinia sorghi)

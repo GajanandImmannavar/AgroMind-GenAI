@@ -1,0 +1,94 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+env/
+ENV/
+
+# =========================
+# Environment & Secrets
+# =========================
+.env
+*.env
+.env.*
+secrets.*
+credentials.*
+*.key
+*.pem
+*.crt
+
+# =========================
+# Databases / Local Storage
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+agromind.db
+
+# =========================
+# Model Weights & Large Files
+# =========================
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.h5
+vector_db/
+checkpoints/
+logs/
+
+# =========================
+# IDE / Editor Files
+# =========================
+.vscode/
+.idea/
+*.code-workspace
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Temporary Files
+# =========================
+*.log
+*.tmp
+*.cache
+*.bak
+*.swp
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Testing / Coverage
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# Uploads / Local Data
+# =========================
+uploads/
+app/dataset

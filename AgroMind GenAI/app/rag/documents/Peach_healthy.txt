@@ -1,0 +1,83 @@
+Disease Name: Healthy Plant
+
+Crop:
+Peach
+
+Scientific Name:
+Prunus persica
+
+Plant Condition:
+Healthy (No disease)
+
+Affected Plant Parts:
+Leaves, branches, and fruits are healthy
+
+Description:
+The peach tree is healthy and growing normally. The leaves are green and fresh, and the fruits develop properly. Good orchard care helps maintain plant health and improves fruit production.
+
+Cause:
+- No disease detected
+- Proper plant care
+- Good growing conditions
+
+Favorable Conditions:
+- Adequate sunlight
+- Healthy soil with nutrients
+- Proper irrigation
+- Good air circulation
+
+Symptoms:
+- Green and healthy leaves
+- No unusual spots or patches
+- Strong branches
+- Good fruit development
+
+Plant Condition Spread:
+- Not applicable because the plant is healthy
+
+Steps to Keep Plant Healthy:
+1. Maintain regular watering based on plant needs.
+2. Apply balanced fertilizers for proper growth.
+3. Prune trees properly to maintain plant shape.
+4. Remove weeds around the tree.
+5. Monitor the orchard regularly for early signs of disease or pests.
+
+Recommended Nutrients / Fertilizer:
+- Organic compost
+- NPK balanced fertilizer
+- Farmyard manure
+
+How to Apply:
+- Apply fertilizer around the root area.
+- Water the plant after fertilizer application.
+- Follow the recommended fertilizer schedule.
+
+Cost per Acre (Approximate):
+- Fertilizer cost: ₹1000 – ₹3000 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1300 – ₹3700 per acre
+
+Plant Monitoring Time:
+Check tree condition every 7–10 days.
+
+Prevention:
+- Maintain regular watering
+- Use healthy planting material
+- Prune trees properly
+- Keep orchard clean
+
+Best Farming Practices:
+- Regular orchard inspection
+- Balanced fertilizer use
+- Good soil management
+- Proper pruning of branches
+
+Effect on Yield:
+Healthy trees produce better quality fruits and higher yield.
+
+Farmer Advice:
+Continue good orchard practices such as proper watering, fertilization, pruning, and regular monitoring to keep peach trees healthy.
+
+Source:
+Agriculture Crop Management Guides
+Peach Cultivation and Plant Health Management Studies

@@ -1,0 +1,87 @@
+Disease Name: Tomato Yellow Leaf Curl Virus
+
+Crop:
+Tomato
+
+Scientific Name:
+Tomato yellow leaf curl virus (TYLCV)
+
+Disease Type:
+Viral Disease
+
+Affected Plant Parts:
+Leaves, stems, and fruits
+
+Description:
+Tomato Yellow Leaf Curl Virus is a serious disease that affects tomato plants. It spreads mainly through small insects called whiteflies. The virus causes yellowing and curling of leaves and reduces plant growth and fruit production.
+
+Cause:
+- Caused by Tomato yellow leaf curl virus (TYLCV)
+- Spread by whitefly insects (Bemisia tabaci)
+- Spreads faster in warm weather
+
+Favorable Conditions:
+- Warm temperatures
+- High whitefly population
+- Poor pest control
+- Continuous tomato cultivation
+
+Symptoms:
+- Yellowing of leaves
+- Leaves curl upward
+- Leaves become smaller and thicker
+- Stunted plant growth
+- Reduced fruit production
+
+Disease Spread:
+- Spread by whitefly insects feeding on plants
+- Whiteflies carry the virus from infected plants
+- Infection spreads quickly in fields with high whitefly population
+
+Steps to Make Plant Healthy:
+1. Remove infected plants immediately.
+2. Control whitefly insects using recommended insecticides.
+3. Use insect-proof nets in nursery.
+4. Maintain proper field hygiene.
+5. Monitor plants regularly for early symptoms.
+
+Recommended Medicine (Whitefly Control):
+- Imidacloprid
+- Thiamethoxam
+- Spinosad
+- Neem oil spray
+
+How to Apply:
+- Spray insecticide evenly on leaves, especially the underside.
+- Apply when whiteflies are first noticed.
+- Repeat spraying based on pest presence.
+
+Cost per Acre (Approximate):
+- Insecticide cost: ₹1000 – ₹2200 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1300 – ₹2900 per acre
+
+Recovery Time:
+Infected plants cannot recover. Early removal helps protect healthy plants.
+
+Prevention:
+- Control whitefly population
+- Use resistant tomato varieties
+- Remove infected plants early
+- Use insect-proof nets in nursery
+
+Best Farming Practices:
+- Regular pest monitoring
+- Maintain field cleanliness
+- Use balanced fertilizers
+- Proper crop rotation
+
+Effect on Yield:
+If not controlled, Tomato Yellow Leaf Curl Virus can greatly reduce tomato yield and plant growth.
+
+Farmer Advice:
+Check tomato plants regularly for yellowing and upward curling leaves. Control whiteflies early and remove infected plants to prevent the virus from spreading.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Tomato Yellow Leaf Curl Virus (TYLCV)

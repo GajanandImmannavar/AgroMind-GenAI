@@ -1,0 +1,86 @@
+Disease Name: Bacterial Spot
+
+Crop:
+Bell Pepper
+
+Scientific Name:
+Xanthomonas campestris pv. vesicatoria
+
+Disease Type:
+Bacterial Disease
+
+Affected Plant Parts:
+Leaves, stems, and fruits
+
+Description:
+Bacterial Spot is a common disease in bell pepper plants. It spreads mostly in warm and wet weather. The disease causes dark spots on leaves and fruits and can reduce crop quality if not controlled early.
+
+Cause:
+- Caused by a bacterium called Xanthomonas campestris pv. vesicatoria
+- Spreads in warm and humid weather
+- Rain splash and wind help spread the bacteria
+
+Favorable Conditions:
+- Warm temperatures
+- High humidity
+- Frequent rainfall
+- Wet leaves for long periods
+
+Symptoms:
+- Small dark or black spots on leaves
+- Yellow areas around the spots
+- Leaves may turn yellow and fall early
+- Rough dark spots on fruits
+- Reduced fruit quality
+
+Disease Spread:
+- Spread through rain splash
+- Wind can carry bacteria
+- Infected seeds and plant material can spread the disease
+
+Steps to Make Plant Healthy:
+1. Remove infected leaves and fruits from the plant.
+2. Keep the field clean and remove plant debris.
+3. Spray recommended bactericide early.
+4. Maintain proper spacing between plants.
+5. Monitor plants regularly.
+
+Recommended Medicine:
+- Copper oxychloride
+- Copper hydroxide
+- Streptomycin spray (where recommended)
+
+How to Apply:
+- Spray bactericide evenly on leaves and fruits.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if necessary.
+
+Cost per Acre (Approximate):
+- Bactericide cost: ₹900 – ₹1800 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1200 – ₹2500 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Use disease-free seeds
+- Avoid working in wet fields
+- Maintain proper spacing between plants
+- Keep tools and equipment clean
+
+Best Farming Practices:
+- Regular field inspection
+- Balanced fertilizer use
+- Good soil drainage
+- Proper weed control
+
+Effect on Yield:
+If not controlled, Bacterial Spot can reduce pepper yield and fruit quality.
+
+Farmer Advice:
+Check pepper leaves and fruits regularly for dark spots. Early bactericide spraying and good field hygiene help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Pepper Bacterial Spot (Xanthomonas campestris pv. vesicatoria)

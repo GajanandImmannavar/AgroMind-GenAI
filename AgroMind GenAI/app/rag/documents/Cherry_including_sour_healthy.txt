@@ -1,0 +1,83 @@
+Disease Name: Healthy Plant
+
+Crop:
+Cherry
+
+Scientific Name:
+Prunus avium
+
+Plant Condition:
+Healthy (No disease)
+
+Affected Plant Parts:
+Leaves, branches, and fruits are healthy
+
+Description:
+The cherry tree is healthy and growing normally. The leaves are green and fresh, and the fruits develop properly. Good orchard care helps maintain plant health and fruit production.
+
+Cause:
+- No disease detected
+- Proper plant care
+- Good growing conditions
+
+Favorable Conditions:
+- Proper sunlight
+- Healthy soil with nutrients
+- Regular watering
+- Good air circulation
+
+Symptoms:
+- Green and fresh leaves
+- No powder, spots, or discoloration
+- Strong branches
+- Healthy fruit development
+
+Plant Condition Spread:
+- Not applicable because the plant is healthy
+
+Steps to Keep Plant Healthy:
+1. Maintain regular pruning of branches.
+2. Apply balanced fertilizer for proper growth.
+3. Remove weeds around the tree.
+4. Monitor the orchard frequently for early signs of disease.
+5. Keep the orchard area clean.
+
+Recommended Nutrients / Fertilizer:
+- Organic compost
+- NPK balanced fertilizer
+- Farmyard manure
+
+How to Apply:
+- Apply fertilizer around the root area.
+- Water the tree after fertilizer application.
+- Follow recommended fertilizer schedule.
+
+Cost per Acre (Approximate):
+- Fertilizer cost: ₹1000 – ₹3000 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1300 – ₹3700 per acre
+
+Plant Monitoring Time:
+Check tree condition every 7–10 days.
+
+Prevention:
+- Maintain proper pruning
+- Use healthy planting material
+- Keep orchard clean
+- Maintain proper spacing between trees
+
+Best Farming Practices:
+- Regular orchard inspection
+- Balanced fertilizer use
+- Good soil management
+- Proper pruning of branches
+
+Effect on Yield:
+Healthy trees produce better quality fruits and higher yield.
+
+Farmer Advice:
+Continue good orchard practices such as regular pruning, proper fertilization, and monitoring to keep cherry trees healthy.
+
+Source:
+Agriculture Crop Management Guides
+Cherry Cultivation and Plant Health Management Studies

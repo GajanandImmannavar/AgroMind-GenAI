@@ -1,0 +1,86 @@
+Disease Name: Early Blight
+
+Crop:
+Tomato
+
+Scientific Name:
+Alternaria solani
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves, stems, and sometimes fruits
+
+Description:
+Early Blight is a common disease in tomato plants. It spreads mainly in warm and humid weather. The disease causes brown circular spots on leaves and can weaken the plant if not treated early.
+
+Cause:
+- Caused by a fungus called Alternaria solani
+- Spreads in warm and humid weather
+- The fungus survives in infected plant debris in the soil
+
+Favorable Conditions:
+- Warm temperatures
+- High humidity
+- Frequent rainfall
+- Poor air circulation between plants
+
+Symptoms:
+- Brown circular spots on leaves
+- Yellow area around the spots
+- Lower leaves dry first
+- Spots may grow larger over time
+- Weak plant growth if infection becomes severe
+
+Disease Spread:
+- Spores spread through wind
+- Rain splash spreads the fungus
+- Infected plant debris in the soil
+
+Steps to Make Plant Healthy:
+1. Remove infected leaves from the plant.
+2. Spray recommended fungicide early.
+3. Maintain proper spacing between plants.
+4. Improve air circulation in the field.
+5. Monitor plants regularly.
+
+Recommended Medicine:
+- Mancozeb
+- Chlorothalonil
+- Copper-based fungicides
+
+How to Apply:
+- Spray fungicide evenly on leaves and stems.
+- Apply when early symptoms appear.
+- Repeat spraying every 7–10 days if needed.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹800 – ₹1800 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1100 – ₹2500 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Avoid overhead watering
+- Maintain proper plant spacing
+- Practice crop rotation
+- Remove infected leaves
+
+Best Farming Practices:
+- Maintain proper plant spacing
+- Remove plant debris after harvest
+- Regular crop monitoring
+- Use balanced fertilizers
+
+Effect on Yield:
+If not controlled, Early Blight can reduce tomato plant health and crop yield.
+
+Farmer Advice:
+Check tomato leaves regularly for brown circular spots with yellow edges. Early fungicide spraying and good field management help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Tomato Early Blight (Alternaria solani)

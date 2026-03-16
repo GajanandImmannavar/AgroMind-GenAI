@@ -1,0 +1,85 @@
+Disease Name: Gray Leaf Spot
+
+Crop:
+Corn (Maize)
+
+Scientific Name:
+Cercospora zeae-maydis
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves
+
+Description:
+Gray Leaf Spot is a common disease in corn plants. It spreads mainly in warm and humid weather. The disease forms gray rectangular spots on the leaves and can reduce plant growth and crop yield if not controlled early.
+
+Cause:
+- Caused by a fungus called Cercospora zeae-maydis
+- Spreads in warm and humid weather
+- The fungus survives in old crop residue in the field
+
+Favorable Conditions:
+- Warm temperatures
+- High humidity
+- Frequent rain
+- Dense planting with poor air flow
+
+Symptoms:
+- Small rectangular gray or brown spots on leaves
+- Spots may join together and form large patches
+- Leaves may turn yellow and dry early
+- Severe infection can reduce plant growth
+
+Disease Spread:
+- Spores spread through wind
+- Rain splash spreads the fungus
+- Old infected crop residue in the soil
+
+Steps to Make Plant Healthy:
+1. Remove old infected plant residue from the field.
+2. Apply recommended fungicide if infection is seen.
+3. Maintain proper spacing between plants.
+4. Monitor crops regularly for early symptoms.
+5. Keep the field clean.
+
+Recommended Medicine:
+- Mancozeb
+- Azoxystrobin
+- Propiconazole
+
+How to Apply:
+- Spray fungicide evenly on leaves.
+- Apply when early symptoms appear.
+- Repeat spraying every 10–14 days if necessary.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹900 – ₹1800 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1200 – ₹2500 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Use resistant corn seeds.
+- Avoid dense planting.
+- Practice crop rotation.
+- Remove old plant residue after harvest.
+
+Best Farming Practices:
+- Maintain proper plant spacing
+- Clean field after harvest
+- Regular crop monitoring
+- Use balanced fertilizer
+
+Effect on Yield:
+If not controlled, Gray Leaf Spot can reduce corn yield and plant health.
+
+Farmer Advice:
+Check corn leaves regularly for gray rectangular spots. Early fungicide spray and proper field management can help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Gray Leaf Spot in Corn (Cercospora zeae-maydis)

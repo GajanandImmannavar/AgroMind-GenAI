@@ -1,0 +1,85 @@
+Disease Name: Northern Leaf Blight
+
+Crop:
+Corn (Maize)
+
+Scientific Name:
+Exserohilum turcicum
+
+Disease Type:
+Fungal Disease
+
+Affected Plant Parts:
+Leaves
+
+Description:
+Northern Leaf Blight is a common disease in corn plants. It spreads mostly in cool and wet weather. The disease forms long gray or brown patches on corn leaves. If the infection becomes severe, it can reduce plant growth and crop yield.
+
+Cause:
+- Caused by a fungus called Exserohilum turcicum
+- Spreads in wet and cool conditions
+- The fungus survives in infected plant debris in the field
+
+Favorable Conditions:
+- Cool temperatures
+- High humidity
+- Frequent rainfall
+- Wet leaves for long periods
+
+Symptoms:
+- Long gray or brown patches on leaves
+- Lesions may become larger over time
+- Leaves may dry from the tip downward
+- Severe infection may weaken the plant
+
+Disease Spread:
+- Spores spread through wind
+- Rain and moisture help the fungus grow
+- Old infected crop debris can spread the disease
+
+Steps to Make Plant Healthy:
+1. Monitor corn plants regularly for early symptoms.
+2. Remove infected plant debris from the field.
+3. Spray recommended fungicide if infection appears.
+4. Maintain proper plant spacing.
+5. Improve field drainage to reduce moisture.
+
+Recommended Medicine:
+- Mancozeb
+- Azoxystrobin
+- Propiconazole
+
+How to Apply:
+- Spray fungicide evenly on corn leaves.
+- Apply when early symptoms appear.
+- Repeat spraying every 10–14 days if necessary.
+
+Cost per Acre (Approximate):
+- Fungicide cost: ₹900 – ₹1800 per acre
+- Labor cost: ₹300 – ₹700
+- Total cost: about ₹1200 – ₹2500 per acre
+
+Recovery Time:
+Plants may improve in about 1–2 weeks if treated early.
+
+Prevention:
+- Use resistant corn seeds
+- Practice crop rotation
+- Avoid excessive irrigation
+- Keep the field clean
+
+Best Farming Practices:
+- Maintain proper plant spacing
+- Remove crop residue after harvest
+- Regular crop monitoring
+- Use balanced fertilizer
+
+Effect on Yield:
+If not controlled, Northern Leaf Blight can reduce corn yield and plant health.
+
+Farmer Advice:
+Check corn leaves regularly for long gray or brown patches. Early fungicide spray and proper field management help control the disease.
+
+Source:
+Agriculture Plant Disease Management Guides
+Research on Northern Leaf Blight in Corn (Exserohilum turcicum)
